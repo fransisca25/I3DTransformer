@@ -1,9 +1,9 @@
 # I3D-Transformer Model
-## Model Architecture
-![image](https://github.com/fransisca25/I3DTransformer/blob/master/i3dtransformer_architecture.png)
-
 ## Overview
 The I3D-Transformer model is an advanced neural network designed for spatiotemporal video analysis. It combines the power of Inflated 3D ConvNet (I3D) for feature extraction with a Transformer architecture to enhance temporal dynamics and feature representation. This model is particularly suited for tasks like action recognition in videos. For this research we are using sign language videos.
+
+## Model Architecture
+![image](https://github.com/fransisca25/I3DTransformer/blob/master/i3dtransformer_architecture.png)
 
 ## Key Components
 ### Inception I3D:
